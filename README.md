@@ -4,6 +4,8 @@ A Claude Code skill that turns text into production-quality LinkedIn carousel PD
 
 Give it a topic, a draft, or bullet points. It structures the content, designs every slide from scratch, and renders a ready-to-upload PDF. Every carousel matches your brand automatically.
 
+![12 presets](docs/presets.png)
+
 ## Install
 
 ```bash
